@@ -68,7 +68,7 @@ sequenceDiagram
 🌱 Outside of Work
 ⚽ Footballer (occasional matches, weak ankle but strong spirit 💪)
 
-🏃 marathons - Completed 3 × 10K and 1 × 15K. Preparing for 21K
+🏃 Marathons - Completed 3 × 10K and 1 × 15K. (Preparing for 21K)
 
 ☕ Coffee lover (Americano all the way)
 
