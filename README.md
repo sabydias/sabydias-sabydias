@@ -41,6 +41,8 @@
 ![RoDTEP](https://img.shields.io/badge/Module-RoDTEP_%26_Drawback-512BD4?style=for-the-badge&logo=calculator&logoColor=white)
 ![Access Control](https://img.shields.io/badge/Feature-Role_Access_Management-009688?style=for-the-badge&logo=auth0&logoColor=white)
 
+---
+
 ### 🔹 Email SMTP Flow (BOE/SB to ICEGATE)
 
 ```mermaid
@@ -51,7 +53,10 @@ flowchart LR
     D --> E[ACK Email]
     E --> F[IMEXIO Notifications Panel]
 ```
+---
+
 sequenceDiagram
+
     participant U as User
     participant I as IMEXIO
     participant S as SignalR
@@ -66,6 +71,7 @@ sequenceDiagram
 ---
 
 🌱 Outside of Work
+
 ⚽ Footballer (occasional matches, weak ankle but strong spirit 💪)
 
 🏃 Marathons - Completed 3 × 10K and 1 × 15K. (Preparing for 21K)
