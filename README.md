@@ -36,10 +36,10 @@
 ### 🔹 Key Modules  
 ![Bill of Entry](https://img.shields.io/badge/Module-Bill_of_Entry-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Shipping Bill](https://img.shields.io/badge/Module-Shipping_Bill-ff6600?style=for-the-badge&logo=oracle&logoColor=white)
-![Notifications](https://img.shields.io/badge/Feature-Email_Notifications-FF6C37?style=for-the-badge&logo=gmail&logoColor=white)
-![Exchange Rates](https://img.shields.io/badge/Module-Exchange_Rates-00C853?style=for-the-badge&logo=googlefinance&logoColor=white)
-![RoDTEP](https://img.shields.io/badge/Module-RoDTEP_%26_Drawback-512BD4?style=for-the-badge&logo=calculator&logoColor=white)
+![Payments](https://img.shields.io/badge/Module-Payments-00C853?style=for-the-badge&logo=googlefinance&logoColor=white)
+![Reports](https://img.shields.io/badge/Module-Reports-512BD4?style=for-the-badge&logo=calculator&logoColor=white)
 ![Access Control](https://img.shields.io/badge/Feature-Role_Access_Management-009688?style=for-the-badge&logo=auth0&logoColor=white)
+![Notifications](https://img.shields.io/badge/Feature-Email_Notifications-FF6C37?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
